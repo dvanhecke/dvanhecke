@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer based in Belgium.<br>At the moment I'm studying 'electronics and ICT' at Odisee.
+I am a software developer based in Belgium.<br>At the moment I'm studying Electronics-ICT.
 
 
 # 💻 Tech Stack:
