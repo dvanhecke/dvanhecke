@@ -20,5 +20,3 @@ I am a software developer based in Belgium.<br>At the moment I'm studying 'elect
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dvanhecke&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
