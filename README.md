@@ -19,4 +19,4 @@ I'm a software developer/student based in Belgium,<br>now i am studying Electron
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://c.xkcd.com/random/comic/" width="512px"/>
