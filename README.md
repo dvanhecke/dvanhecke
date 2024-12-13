@@ -17,6 +17,3 @@ I'm a software developer/student based in Belgium,<br>now i am studying Electron
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://c.xkcd.com/random/comic/" width="512px"/>
