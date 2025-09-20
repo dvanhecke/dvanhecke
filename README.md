@@ -30,10 +30,10 @@ Aspiring Electronics and ICT engineer specializing in ICT — with a passion for
 ## 🚀 Highlighted Projects
 
 - [cipher-bot](https://github.com/dvanhecke/cipher-bot):  
-  Automate your cryptography challenges! My Python bot for encoding, decoding, and cracking ciphers — designed for speed and flexibility.
+  A Python Discord bot for minigames and growing a virtual tree in a server, fully hosted on a Raspberry Pi — great for engagement and community fun.
 
 - [Advent-of-Code](https://github.com/dvanhecke/Advent-of-Code):  
-  My solutions to Advent of Code, showcasing creative Python problem-solving and algorithmic fun each December.
+  Python solutions for algorithmic challenges, demonstrating creative problem-solving and programming skills.
 
 ## 🌐 Find me online
 - **GitHub:** [@dvanhecke](https://github.com/dvanhecke)
@@ -45,9 +45,15 @@ Aspiring Electronics and ICT engineer specializing in ICT — with a passion for
 
 ---
 
-## P.S.
+## ☕ Support My Work
 
 <!--START_SECTION:buy-me-a-coffee-->
 <!--END_SECTION:buy-me-a-coffee-->
 
-☕ If you enjoy my projects, consider [buying me a coffee](https://buymeacoffee.com/yourusername) to support development.
+☕ If you enjoy my projects, consider [buying me a coffee](https://buymeacoffee.com/dvanhecke) to support development.
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvanhecke&show_icons=true&theme=blueberry)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvanhecke&theme=blueberry&layout=compact)
