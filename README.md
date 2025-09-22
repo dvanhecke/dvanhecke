@@ -32,13 +32,13 @@ Aspiring Electronics and ICT engineer specializing in ICT — with a passion for
 - [cipher-bot](https://github.com/dvanhecke/cipher-bot):  
   A Python Discord bot for minigames and growing a virtual tree in a server, fully hosted on a Raspberry Pi — great for engagement and community fun.
 
-- [Advent-of-Code](https://github.com/dvanhecke/Advent-of-Code):  
+<!-- - [Advent-of-Code](https://github.com/dvanhecke/Advent-of-Code):  
   Python solutions for algorithmic challenges, demonstrating creative problem-solving and programming skills.
-
+-->
 ## 🌐 Find me online
 - **GitHub:** [@dvanhecke](https://github.com/dvanhecke)
-- **Portfolio:** [dvanhecke.github.io](https://dvanhecke.github.io)
-
+<!--- **Portfolio:** [dvanhecke.github.io](https://dvanhecke.github.io)
+-->
 ---
 
 > “Code is my playground. Every bug is just another puzzle to solve.”
